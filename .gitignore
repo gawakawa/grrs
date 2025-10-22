@@ -16,3 +16,4 @@ target
 .direnv
 result
 .mcp.json
+.claude/settings.local.json
